@@ -1,4 +1,4 @@
-# video 005
+# video 005 006 007
 from tkinter import *
 
 root = Tk()
@@ -9,7 +9,7 @@ e.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
 
 
 def button_click(number):
-    e.delete(0, END)
+    #e.delete(0, END)
     e.insert(0, number)
 
 
