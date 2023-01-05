@@ -1,3 +1,4 @@
+# video 002
 from tkinter import *
 
 root = Tk()

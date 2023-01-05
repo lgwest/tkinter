@@ -1,4 +1,4 @@
-# v003
+# video 003
 from tkinter import *
 
 root = Tk()
